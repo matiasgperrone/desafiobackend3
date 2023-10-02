@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Ojotas",
+    "description": "Ojotas amarillas",
+    "price": 10000,
+    "thumbnail": "URL de ojotas",
+    "code": 47,
+    "stock": 9
+  },
+  {
+    "id": 2,
+    "title": "Zapatos",
+    "description": "Zapatos negros de charol",
+    "price": 50999,
+    "thumbnail": "URL de zapatos",
+    "code": 82,
+    "stock": 74
+  },
+  {
+    "id": 3,
+    "title": "Sandalias",
+    "description": "Sandalias verde militar",
+    "price": 15350,
+    "thumbnail": "URL de sandalias",
+    "code": 126,
+    "stock": 21
+  }
+]
