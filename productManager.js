@@ -38,6 +38,7 @@ class ProductManager {
       console.log("GETPRODUCTBYID: El producto no se encuentra");
     } else {
       console.log("GETPRODUCTBYID: Producto encontrado: ", productsFind);
+      return productsFind;
     }
   }
 
@@ -91,6 +92,8 @@ class ProductManager {
     }
   }
 }
+
+module.exports = ProductManager;
 
 // UTILITY FUNCTIONS
 
